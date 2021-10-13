@@ -143,7 +143,7 @@ function Main() {
 
                     <div className={style.photo}>
                         <Tilt className="Tilt" options={{max: 20, scale: 1.05,}}>
-                            <img src={vovaImage} alt=""/>
+                            <img src={vovaImage} className={"bogdan_debil"} alt=""/>
                         </Tilt>
                         <div className={style.border}></div>
                     </div>

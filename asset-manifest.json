@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bogdan_talatura/static/css/main.b41eadd6.chunk.css",
+    "main.js": "/bogdan_talatura/static/js/main.589029b7.chunk.js",
+    "main.js.map": "/bogdan_talatura/static/js/main.589029b7.chunk.js.map",
+    "runtime-main.js": "/bogdan_talatura/static/js/runtime-main.ba9e8aad.js",
+    "runtime-main.js.map": "/bogdan_talatura/static/js/runtime-main.ba9e8aad.js.map",
+    "static/js/2.e1df7a40.chunk.js": "/bogdan_talatura/static/js/2.e1df7a40.chunk.js",
+    "static/js/2.e1df7a40.chunk.js.map": "/bogdan_talatura/static/js/2.e1df7a40.chunk.js.map",
+    "static/js/3.fce5c2a4.chunk.js": "/bogdan_talatura/static/js/3.fce5c2a4.chunk.js",
+    "static/js/3.fce5c2a4.chunk.js.map": "/bogdan_talatura/static/js/3.fce5c2a4.chunk.js.map",
+    "index.html": "/bogdan_talatura/index.html",
+    "static/css/main.b41eadd6.chunk.css.map": "/bogdan_talatura/static/css/main.b41eadd6.chunk.css.map",
+    "static/js/2.e1df7a40.chunk.js.LICENSE.txt": "/bogdan_talatura/static/js/2.e1df7a40.chunk.js.LICENSE.txt",
+    "static/media/13.7e5e8167.png": "/bogdan_talatura/static/media/13.7e5e8167.png",
+    "static/media/19.3d7cfd97.png": "/bogdan_talatura/static/media/19.3d7cfd97.png",
+    "static/media/30yaer.f4d8477d.jpg": "/bogdan_talatura/static/media/30yaer.f4d8477d.jpg",
+    "static/media/academ.d9ea0795.jpg": "/bogdan_talatura/static/media/academ.d9ea0795.jpg",
+    "static/media/bodik1.83893fb6.JPG": "/bogdan_talatura/static/media/bodik1.83893fb6.JPG",
+    "static/media/chellendzh-dobryh-sprav-support-people-deeds.12@2x.3898be1b.jpeg": "/bogdan_talatura/static/media/chellendzh-dobryh-sprav-support-people-deeds.12@2x.3898be1b.jpeg",
+    "static/media/ivib-01.80e67d72.jpg": "/bogdan_talatura/static/media/ivib-01.80e67d72.jpg",
+    "static/media/money.9c451452.jpg": "/bogdan_talatura/static/media/money.9c451452.jpg",
+    "static/media/plant-tree.69074993.jpg": "/bogdan_talatura/static/media/plant-tree.69074993.jpg",
+    "static/media/polular2.04caa706.jpg": "/bogdan_talatura/static/media/polular2.04caa706.jpg",
+    "static/media/popular.893b5004.jpg": "/bogdan_talatura/static/media/popular.893b5004.jpg",
+    "static/media/real.63c125d9.jpg": "/bogdan_talatura/static/media/real.63c125d9.jpg",
+    "static/media/social.37a78504.png": "/bogdan_talatura/static/media/social.37a78504.png",
+    "static/media/together.c6cda840.png": "/bogdan_talatura/static/media/together.c6cda840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba9e8aad.js",
+    "static/js/2.e1df7a40.chunk.js",
+    "static/css/main.b41eadd6.chunk.css",
+    "static/js/main.589029b7.chunk.js"
+  ]
+}

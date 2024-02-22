@@ -19,7 +19,7 @@ import real1 from "../assets/images/photo_2024-02-23_00-42-08.jpg";
 import yellow from "../assets/images/veryyellov.png";
 import white from "../assets/images/yeloow.png"
 import pizda from "../assets/images/421.jpeg"
-import pizda3 from "../assets/images/photo_2024-02-23_01-13-14.jpg"
+import pizda3 from "../assets/images/photo_2024-02-23_01-43-51.jpg"
 
 function MyWorks() {
     const first = {
@@ -63,8 +63,8 @@ function MyWorks() {
     }
     const academia1 = {
         backgroundImage: `url(${pizda3})`,
-        width: '670px',
-        marginTop: '15px'
+        width: '250px',
+        height: '250px',
     }
 
 
@@ -99,11 +99,11 @@ function MyWorks() {
                                   <p className={style.margin}>Закріплено партнерські відносини з Студентською радою при
                                       Яґеллонському університеті
                                       у місті Кракові, Польща</p>
-                                  <p className={style.margin}>Закріпленопартнерські відносини з обласними молодіжними
+                                  <p className={style.margin}>Закріплено партнерські відносини з обласними молодіжними
                                       радами України</p>
                                   <p className={style.margin}>Закріплено партнерські відносини з Parlament Młodych
                                       Rzeczypospolitej Polskiej</p>
-                                  <p className={style.margin}>ЗакріпленопартнерськівідносинизЛьвіськимосередкомAIESEC</p>
+                                  <p className={style.margin}>Закріплено партнерські відносини з Львіським осередком AIESEC</p>
                               </div>}
                     />
                     <Work style={social1}
@@ -318,7 +318,7 @@ function MyWorks() {
                                       вносяться до бази даних молодіжного кадрового потенціалу Львівської обласної
                                       державної адміністрації.</p>
                                   <img src={pizda} alt="" width="690px" height="400px"/>
-                                  <a href="https://www.instagram.com/academy.loda?igsh=NW1jYjNsMzJheW5m">Посилання на
+                                  <a href="https://www.instagram.com/academy.loda?igsh=NW1jYjNsMzJheW5m" className={style.link}>Посилання на
                                       офіційні джерела</a>
 
                               </div>

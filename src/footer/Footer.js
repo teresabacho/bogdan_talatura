@@ -14,10 +14,10 @@ function Footer() {
                 <div className={styleTitle.title}>
                     <h3>Bogdan Talatura</h3>
                 </div>
-                <span className={style.rights}>@ 2021 All Rights Reserved</span>
+                <span>@ 2023 All Rights Reserved</span>
                 <div className={style.links}>
-                 <a href="https://www.facebook.com/bogdan.tura.75"> <UilFacebook size={50} color={"#4f8dd0"} /></a>
-                <a href="https://instagram.com/t.b.i.official?utm_medium=copy_link"> <UilInstagram size={50} color={"#4f8dd0"}/></a>
+                 <a href="https://www.facebook.com/bogdan.tura.75" target={"_blank"}> <UilFacebook size={50} color={"rgb(211,164,44)"} /></a>
+                <a href="https://www.instagram.com/b.talatura?igsh=MTNqbDBjeWRvNHV3ZA==" target={"_blank"}> <UilInstagram size={50} color={"rgb(211,164,44)"}/></a>
                 </div>
             </div>
         </div>

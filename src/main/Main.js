@@ -1,13 +1,10 @@
 import React from 'react';
 import style from './Main.module.scss';
 import styleContainer from '../common/styles/Container.module.scss';
-import vovaImage from '../assets/images/bodik.JPG';
+import vovaImage from '../assets/images/bodik1.JPG';
 import Particles from 'react-particles-js';
 import Fade from 'react-reveal/Fade';
-import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-tilt';
-import * as Scroll from 'react-scroll';
-import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll';
 
 
 const particlesOptions = {
@@ -20,7 +17,7 @@ const particlesOptions = {
             }
         },
         "color": {
-            "value": "#4f8dd0"
+            "value": "rgb(211,164,44)"
         },
         "shape": {
             "type": "circle",
@@ -60,7 +57,7 @@ const particlesOptions = {
         "line_linked": {
             "enable": true,
             "distance": 300,
-            "color": "#4f8dd0",
+            "color": "rgb(211,164,44)",
             "opacity": 0.4,
             "width": 2
         },

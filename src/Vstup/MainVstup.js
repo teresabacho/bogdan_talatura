@@ -10,11 +10,11 @@ function MainVstup() {
     const JS = <Unicons.UilJavaScript size="140" color="#61DAFB"/>;
 
     return (
-        <div id={"skills"} className={style.skillsBlock}>
+        <div id={"vstup"} className={style.skillsBlock}>
             <Fade>
                 <div className={`${styleContainer.container} ${style.skillsContainer}`}>
                     <div className={styleTitle.title}>
-                        <h2>Вступ</h2>
+                        <h2>Вступне слово</h2>
                     </div>
                     <div className={style.skills}>
                         <Vstup
@@ -29,7 +29,7 @@ function MainVstup() {
                             // </p>}
                             description={<div className={style.descript}>
                                 <p className={style.margin}> Молодь - це мотор суспільного прогресу, творчого підходу та
-                                    новаторства. І я впевнений, що наша молодіжна рада може стати справжнім
+                                    новаторства. І я впевнений, що наша Молодіжна рада може стати справжнім
                                     каталізатором позитивних змін у нашій спільноті.</p>
                                 <p className={style.margin}>
                                     Це для мене велика честь і відповідальність, але ще більше - це можливість зробити

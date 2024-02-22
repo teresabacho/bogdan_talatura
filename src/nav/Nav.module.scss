@@ -2,7 +2,7 @@
 @import '../common/styles/sass/mixins';
 
 .nav {
-  width: 300px;
+  width: 400px;
   margin-right: 5vw;
   display: flex;
   justify-content: space-between;
@@ -22,5 +22,7 @@
 
   @media screen and (max-width: 767px) {
     margin-right: 0;
+    justify-content: space-around;
+
   }
 }

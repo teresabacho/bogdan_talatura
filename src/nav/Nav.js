@@ -15,12 +15,19 @@ function Nav() {
                   duration={500}
             >Головна</Link>
             <Link activeClass={style.active}
+                  to="vstup"
+                  spy={true}
+                  smooth={true}
+                  offset={-60}
+                  duration={500}
+            >Вступне Слово</Link>
+            <Link activeClass={style.active}
                   to="skills"
                   spy={true}
                   smooth={true}
                   offset={-60}
                   duration={500}
-            >Освіта</Link>
+            >Про Мене</Link>
             <Link activeClass={style.active}
                   to="projects"
                   spy={true}

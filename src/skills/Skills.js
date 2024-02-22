@@ -23,73 +23,67 @@ function Skills() {
                         <Skill icon={<Unicons.UilBookAlt className={style.icon}/>}
                                title={"Вища освіта"}
                                description={<div className={style.descript}>
-                                   Професійна кваліфікація Молодший спеціаліст з Фінансів
+                                   <p className={style.margin}>Освітня кваліфікація “Бакалавр фінансів, банківської
+                                       справи та страхування” </p>
                                    <br className={style.margin}/>
-                                   Спеціальність:Банківська справа та
-                                   Страхування
-                                   <p className={style.margin}> </p>
-                                   <br className={style.margin}/>
-                                   Навчаюсь у Національному університеті “Львівська політехніка”
-                                   <p className={style.margin}> </p>
-                                   <br className={style.margin}/>
-                                   Спеціальність: Фінанси, Банківська справа та
-                                   Страхування
-                                   <p className={style.margin}> </p>
+
+                                   <p className={style.margin}>Військове звання: Молодший лейтенант </p>
                                    <br className={style.margin}/>
                                    Навчаюся у Львівському національному університеті імені Івана Франка
-                                   <p className={style.margin}> </p>
-                                   <br className={style.margin}/>
+                                   <p className={style.margin}></p>
                                    Спеціальність: Право
-                                   <p className={style.margin}> </p>
-                                   <br className={style.margin}/>
-                                   Навчаюсь у Національній академії сухопутних військ
-                                   <p className={style.margin}> </p>
-                                   <br className={style.margin}/>
-                                   Спеціальність: Військова розвідка
                                </div>}/>
                         <Skill icon={<Unicons.UilSuitcaseAlt className={style.icon}/>}
-                               title={"Моя діяльність"}
+                               title={"Досвід роботи"}
                                description={
                                    <div className={style.descript}>
-                                       Амбасадор Let’s do it Ukraine
+                                       Молодший спеціаліст з ціноутворення у PwC Україна
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Помічник Радника Голови у Львівській обласній державній адміністрації
+                                       Фахівець з фінансів у Greenville
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Помічник Радника Голови у Дрогобицькій районній державній адміністрації
+                                       Екс-голова Молодіжної ради при Львівській ОВА
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                       Помічник Радника Голови у Золочивській районній державній адміністрації
+                                       Заступник координатора у Львівській області в громадській організації (управлінський
+                                       досвід більше 1+ року командою в кількості 30+ осіб)
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Колишній голова економічного факультету у коледжі
+                                       Робота над антикорупційною стратегією на 2021-2025 роки в Львівській міській раді
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Командир роти у Національній академії сухопутних військ
+                                       Робота над зведеною аналітикою даних щодо об’єктів комунальної власності у місті
+                                       Львові
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Координатор Львівщини по озелененню від благодійної організація
-                                       “Добро.Дій”`
+                                       Робота у сфері фінансових злочинів над викраданням та незаконною приватизацією
+                                       міської нерухомості у місті Львові
+                                   </div>
+                               }/>
+                        <Skill icon={<Unicons.UilAnalytics className={style.icon}/>}
+                               title={"Дослідження та наукові роботи"}
+                               description={
+                                   <div className={style.descript}>
+                                       Наукова робота на тему «Децентралізація влади в умовах сучасного українського унітаризму»
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Менеджер-амбасадор “The World’s Largest Lesson” та брав участь в їхній
-                                       ініціативі «Найбільший урок у світі», за підтримки Unicef, в результаті якої
-                                       було проведено уроки у 29-ти школах Львова та залучено 4040 учнів.
+                                       Наукова робота на тему «Оцінювання симптом (причин) виникнення фінансової кризи на підприємстві»
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Ініціатор створення Антикорупційної стратегії на 2021-2025 роки в
-                                       Львівській міській раді
+                                       Наукова робота на тему «Фінансові ресурси місцевого та регіонального самоврядування»
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Ініціатор проведення зведеної аналітики даних щодо об’єктів комунальної
-                                       власності у місті Львові
+                                       Наукова робота на тему «Концeнтрaція тa конкурентність на страховому ринку України»
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Брав участь у Всеукраїнському форумі «Україна 30»
+                                       Наукова робота на тему «Міжнародні резерви України в умовах війни»
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Брав участь у ХХ Міжнародному економічному форумі
+                                       Наукова робота на тему «Страховий ринок України в умовах війни»
+                                       <p className={style.margin}> </p>
+                                       <br className={style.margin}/>
+                                       Наукова робота на тему «Учасники-контрагенти у трансфертному ціноутворенні: резиденти, нерезиденти, пов’язані особи та інші»
                                    </div>
                                }/>
                         <Skill icon={<Unicons.UilEnglishToChinese className={style.icon}/>}
@@ -98,8 +92,6 @@ function Skills() {
                                    <div className={style.descript}>
                                        Українська – вільно
                                        <p className={style.margin}> </p>
-                                       <br className={style.margin}/>
-                                        Російська – вільно
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
                                         Англійська – розмовна
@@ -109,38 +101,34 @@ function Skills() {
                                title={"Курси"}
                                description={
                                    <div className={style.descript}>
-                                       Завершив курси англійської мови у Мовному Експерті - General English
-                                       (B1 Common European Framework) вересень 2018-травень 2019
+                                       Завершення Академії політичного лідерства від Міжнародного республіканського інституту (серпень 2021 – жовтень 2021)
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                       Завершив курси англійської мови у Green Forest (Intermediate level with final
-                                       grade A)
+                                       Завершення серії тренінгів на тему “Виборчі системи в Україні та підготовка до участі у виборах для молоді” від Міжнародного демократичного інституту
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Завершив курси англійської мови у Green Forest (Upper-Intermediate
-                                       level with final grade A)
-                                       <p className={style.margin}> </p>
-                                       <br className={style.margin}/>
-                                        Завершив Академію політичного лідерства
+                                       Завершення навчання та сертифіковане підтвердження у сфері публічних закупівель на веб-порталі Уповноваженого органу
+                                       <p className={style.margin}> </p><br className={style.margin}/>
+                                       Завершив курси англійської мови у Green Forest (Advanced level)                                       <p className={style.margin}> </p>
                                    </div>
                                }/>
                         <Skill icon={<Unicons.UilBrain  className={style.icon}/>}
                                title={"Стажування"}
                                description={
                                    <div className={style.descript}>
-                                       Стажувався в Західному міжобласному територіальному відділенні
+                                       Стажування в Західному міжобласному територіальному відділенні
                                        Антимонопольного комітету України у Третьому відділі досліджень та
                                        розслідувань
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Стажувався в Львівській міській раді у секторі питань доброчесності та
+                                       Стажування в Львівській міській раді у секторі питань доброчесності та
                                        запобіганні корупції
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Стажувався в ПАТ "Львівгаз" у відділі тендерних закупівель
+                                       Стажування в ПАТ "Львівгаз" у відділі тендерних закупівель
                                        <p className={style.margin}> </p>
                                        <br className={style.margin}/>
-                                        Стажувався в ПАТ "ОЩАДБАНК"
+                                       Стажування в ПАТ "ОЩАДБАНК"
                                    </div>
                                }/>
                     </div>

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bogdan_talatura/static/css/main.785703d4.chunk.css",
-    "main.js": "/bogdan_talatura/static/js/main.1c020f3c.chunk.js",
-    "main.js.map": "/bogdan_talatura/static/js/main.1c020f3c.chunk.js.map",
+    "main.css": "/bogdan_talatura/static/css/main.b2671750.chunk.css",
+    "main.js": "/bogdan_talatura/static/js/main.7e941dc9.chunk.js",
+    "main.js.map": "/bogdan_talatura/static/js/main.7e941dc9.chunk.js.map",
     "runtime-main.js": "/bogdan_talatura/static/js/runtime-main.f8a4e6d8.js",
     "runtime-main.js.map": "/bogdan_talatura/static/js/runtime-main.f8a4e6d8.js.map",
     "static/js/2.de37f0e1.chunk.js": "/bogdan_talatura/static/js/2.de37f0e1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.7313c66c.chunk.js": "/bogdan_talatura/static/js/3.7313c66c.chunk.js",
     "static/js/3.7313c66c.chunk.js.map": "/bogdan_talatura/static/js/3.7313c66c.chunk.js.map",
     "index.html": "/bogdan_talatura/index.html",
-    "static/css/main.785703d4.chunk.css.map": "/bogdan_talatura/static/css/main.785703d4.chunk.css.map",
+    "static/css/main.b2671750.chunk.css.map": "/bogdan_talatura/static/css/main.b2671750.chunk.css.map",
     "static/js/2.de37f0e1.chunk.js.LICENSE.txt": "/bogdan_talatura/static/js/2.de37f0e1.chunk.js.LICENSE.txt",
     "static/media/13.7e5e8167.png": "/bogdan_talatura/static/media/13.7e5e8167.png",
     "static/media/19.3d7cfd97.png": "/bogdan_talatura/static/media/19.3d7cfd97.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8a4e6d8.js",
     "static/js/2.de37f0e1.chunk.js",
-    "static/css/main.785703d4.chunk.css",
-    "static/js/main.1c020f3c.chunk.js"
+    "static/css/main.b2671750.chunk.css",
+    "static/js/main.7e941dc9.chunk.js"
   ]
 }

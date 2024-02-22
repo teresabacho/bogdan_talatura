@@ -3,7 +3,7 @@
 
 .skillsBlock {
   padding: 5vh 0;
-  background-color: $bgColor;
+  background-color: $bgSecondColor;
   display: flex;
   align-items: center;
 
@@ -17,15 +17,11 @@
       display: flex;
       justify-content: space-evenly;
       flex-wrap: wrap;
-      .icon{
-        color: $primaryColor;
-        width: 40px;
-        height: 40px;
-      }
     }
 
     .margin{
-      margin: 3px;
+      margin-bottom: 10px;
+      text-align: left;
     }
     @media screen and (min-width: 1200px) {
       width: 1140px;

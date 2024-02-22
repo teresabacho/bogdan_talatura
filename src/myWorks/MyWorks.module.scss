@@ -2,7 +2,7 @@
 
 .myWorksBlock {
   padding: 5vh 0;
-  background-color: $bgColor;
+  background-color: $bgSecondColor;
   display: flex;
   align-items: center;
 
@@ -39,7 +39,7 @@
   transform: scale(1.05);
   color: $primarySecondColor;
 }
-.justanim{
+.justanim {
   transition: 0.5s;
 }
 .justanim:hover{

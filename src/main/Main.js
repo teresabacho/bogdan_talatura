@@ -127,14 +127,13 @@ function Main() {
             <Fade bottom>
                 <div className={`${styleContainer.container} ${style.mainContainer}`}>
                     <div className={style.greeting}>
-                        <h1>
-                            <br/>
+                        <h1 className={style.hello}>
+                            <br />
                             Талатура
                             <br/>
                             Богдан
                             <br/>
                             Ігорович
-
                         </h1>
                     </div>
 

@@ -17,7 +17,7 @@ function Skills() {
             <Fade>
                 <div className={`${styleContainer.container} ${style.skillsContainer}`}>
                     <div className={styleTitle.title}>
-                        <h2>Освіта</h2>
+                        <h2>Про Мене</h2>
                     </div>
                     <div className={style.skills}>
                         <Skill icon={<Unicons.UilBookAlt className={style.icon}/>}

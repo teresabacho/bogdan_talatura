@@ -23,6 +23,7 @@
     justify-content: space-evenly;
     z-index: 22;
 
+
     .greeting {
       width: 294px;
       margin: 30px 5px;
@@ -104,5 +105,11 @@
 
 
 
-
+.hello{
+  transition: 0.5s;
+}
+.hello:hover{
+  display: flex;
+  transform: scale(1.20);
+}
 
